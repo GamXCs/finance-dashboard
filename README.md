@@ -71,3 +71,16 @@ This project emphasizes:
 Project Status
 
 🚧 Project setup is currently in progress.
+
+## Development Workflow
+
+1. Pull the latest changes from `main`.
+2. Create a new feature branch.
+3. Implement one feature or fix.
+4. Test your changes.
+5. Commit with a descriptive message.
+6. Push your branch to GitHub.
+7. Open a Pull Request.
+8. Have a teammate review it.
+9. Merge into `main`.
+10. Delete the feature branch.
